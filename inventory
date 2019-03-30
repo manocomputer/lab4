@@ -1,0 +1,9 @@
+[all]
+web01.cioft.com
+ansible01.cioft.com
+
+[lamp]
+web01.cioft.com
+
+[file]
+ansible01.cioft.com
